@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/Async/bin/Debug/netcoreapp3.1/Async.deps.json
+/Users/levsen/Projects/cSharpLevel2/Async/bin/Debug/netcoreapp3.1/Async.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/Async/bin/Debug/netcoreapp3.1/Async.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/Async/bin/Debug/netcoreapp3.1/Async.dll
+/Users/levsen/Projects/cSharpLevel2/Async/bin/Debug/netcoreapp3.1/Async.pdb
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.dll
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.pdb
+/Users/levsen/Projects/cSharpLevel2/Async/obj/Debug/netcoreapp3.1/Async.genruntimeconfig.cache

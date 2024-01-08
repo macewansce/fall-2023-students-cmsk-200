@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/LINQ/bin/Debug/netcoreapp3.1/LINQ.deps.json
+/Users/levsen/Projects/cSharpLevel2/LINQ/bin/Debug/netcoreapp3.1/LINQ.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/LINQ/bin/Debug/netcoreapp3.1/LINQ.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/LINQ/bin/Debug/netcoreapp3.1/LINQ.dll
+/Users/levsen/Projects/cSharpLevel2/LINQ/bin/Debug/netcoreapp3.1/LINQ.pdb
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.dll
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.pdb
+/Users/levsen/Projects/cSharpLevel2/LINQ/obj/Debug/netcoreapp3.1/LINQ.genruntimeconfig.cache

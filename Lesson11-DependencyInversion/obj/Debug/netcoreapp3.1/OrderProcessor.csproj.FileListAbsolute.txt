@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/bin/Debug/netcoreapp3.1/OrderProcessor.deps.json
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/bin/Debug/netcoreapp3.1/OrderProcessor.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/bin/Debug/netcoreapp3.1/OrderProcessor.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/bin/Debug/netcoreapp3.1/OrderProcessor.dll
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/bin/Debug/netcoreapp3.1/OrderProcessor.pdb
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.dll
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.pdb
+/Users/levsen/Projects/cSharpLevel2/OrderProcessor/obj/Debug/netcoreapp3.1/OrderProcessor.genruntimeconfig.cache

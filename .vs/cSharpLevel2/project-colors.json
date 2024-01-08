@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10726f4c-8d1c-40e7-8fd8-af5c0338be10": {
+      "ProjectGuid": "10726f4c-8d1c-40e7-8fd8-af5c0338be10",
+      "DisplayName": "Review",
+      "ColorIndex": 0
+    },
+    "570e0831-e2a5-4ceb-abbc-595fca49f1e5": {
+      "ProjectGuid": "570e0831-e2a5-4ceb-abbc-595fca49f1e5",
+      "DisplayName": "Lesson10-Interfaces",
+      "ColorIndex": 1
+    },
+    "b321fff3-43d4-42f7-ae97-0fc6f0ac0f2f": {
+      "ProjectGuid": "b321fff3-43d4-42f7-ae97-0fc6f0ac0f2f",
+      "DisplayName": "Lesson09-Generics",
+      "ColorIndex": 2
+    },
+    "bb7a36cb-3009-4ac8-bd3d-7a9546802442": {
+      "ProjectGuid": "bb7a36cb-3009-4ac8-bd3d-7a9546802442",
+      "DisplayName": "Lesson12-Delegates",
+      "ColorIndex": 3
+    },
+    "f1da190f-ddb9-42b9-a239-3509e2bfe97e": {
+      "ProjectGuid": "f1da190f-ddb9-42b9-a239-3509e2bfe97e",
+      "DisplayName": "Lesson15-PerformantCode",
+      "ColorIndex": 4
+    },
+    "3e87e9ed-c83b-423e-86d6-355929512cad": {
+      "ProjectGuid": "3e87e9ed-c83b-423e-86d6-355929512cad",
+      "DisplayName": "Lesson13-14-ActionAndFunc",
+      "ColorIndex": 5
+    },
+    "0b245be3-21ff-47af-913b-3799e0d25e6b": {
+      "ProjectGuid": "0b245be3-21ff-47af-913b-3799e0d25e6b",
+      "DisplayName": "LINQ",
+      "ColorIndex": 6
+    },
+    "99732248-a760-4caf-a87b-39439bf7187e": {
+      "ProjectGuid": "99732248-a760-4caf-a87b-39439bf7187e",
+      "DisplayName": "Lesson11-DependencyInversion",
+      "ColorIndex": 7
+    },
+    "75b02e0a-58bc-4b02-aeb7-cedcee9d76ca": {
+      "ProjectGuid": "75b02e0a-58bc-4b02-aeb7-cedcee9d76ca",
+      "DisplayName": "Lesson02-Classes",
+      "ColorIndex": 8
+    },
+    "87663ac9-70af-4788-8b2e-b5c94e2ec025": {
+      "ProjectGuid": "87663ac9-70af-4788-8b2e-b5c94e2ec025",
+      "DisplayName": "Lesson03-ExtensionMethod",
+      "ColorIndex": 9
+    },
+    "71950ea4-633a-4631-a8d3-6e47065db005": {
+      "ProjectGuid": "71950ea4-633a-4631-a8d3-6e47065db005",
+      "DisplayName": "Lesson04-AccessModifiers",
+      "ColorIndex": 10
+    },
+    "632a4641-f550-4251-9ebe-ca6306f9ffe5": {
+      "ProjectGuid": "632a4641-f550-4251-9ebe-ca6306f9ffe5",
+      "DisplayName": "Lesson05-DeepDiveClassMembers",
+      "ColorIndex": 11
+    },
+    "e899bbbe-f984-4a9c-b184-e5ee95e4b887": {
+      "ProjectGuid": "e899bbbe-f984-4a9c-b184-e5ee95e4b887",
+      "DisplayName": "Lesson06-AbstractClass",
+      "ColorIndex": 12
+    },
+    "d811d16b-e2d7-4711-ba1e-923431f43347": {
+      "ProjectGuid": "d811d16b-e2d7-4711-ba1e-923431f43347",
+      "DisplayName": "Lesson07-AbstractVirtual",
+      "ColorIndex": 13
+    },
+    "e735111b-8145-4012-b703-01e239385e14": {
+      "ProjectGuid": "e735111b-8145-4012-b703-01e239385e14",
+      "DisplayName": "Lesson08-Inheritance",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

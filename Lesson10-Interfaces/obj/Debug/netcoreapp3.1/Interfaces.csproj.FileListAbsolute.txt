@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.deps.json
+/Users/levsen/Projects/cSharpLevel2/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.dll
+/Users/levsen/Projects/cSharpLevel2/Interfaces/bin/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.dll
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.pdb
+/Users/levsen/Projects/cSharpLevel2/Interfaces/obj/Debug/netcoreapp3.1/Interfaces.genruntimeconfig.cache

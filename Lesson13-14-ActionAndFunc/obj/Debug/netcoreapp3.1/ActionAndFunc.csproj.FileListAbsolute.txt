@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/bin/Debug/netcoreapp3.1/ActionAndFunc.deps.json
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/bin/Debug/netcoreapp3.1/ActionAndFunc.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/bin/Debug/netcoreapp3.1/ActionAndFunc.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/bin/Debug/netcoreapp3.1/ActionAndFunc.dll
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/bin/Debug/netcoreapp3.1/ActionAndFunc.pdb
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.dll
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.pdb
+/Users/levsen/Projects/cSharpLevel2/ActionAndFunc/obj/Debug/netcoreapp3.1/ActionAndFunc.genruntimeconfig.cache

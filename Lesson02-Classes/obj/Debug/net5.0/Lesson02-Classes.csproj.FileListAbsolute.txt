@@ -1,0 +1,16 @@
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\Lesson02-Classes.exe
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\Lesson02-Classes.deps.json
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\Lesson02-Classes.runtimeconfig.json
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\Lesson02-Classes.runtimeconfig.dev.json
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\Lesson02-Classes.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\ref\Lesson02-Classes.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\bin\Debug\net5.0\Lesson02-Classes.pdb
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.csproj.AssemblyReference.cache
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.AssemblyInfoInputs.cache
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.AssemblyInfo.cs
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.csproj.CoreCompileInputs.cache
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\ref\Lesson02-Classes.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.pdb
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson02-Classes\obj\Debug\net5.0\Lesson02-Classes.genruntimeconfig.cache

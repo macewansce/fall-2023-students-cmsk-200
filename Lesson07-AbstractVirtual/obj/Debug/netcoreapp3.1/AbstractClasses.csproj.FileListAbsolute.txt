@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.deps.json
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.dll
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/bin/Debug/netcoreapp3.1/AbstractClasses.pdb
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.dll
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.pdb
+/Users/levsen/Projects/cSharpLevel2/AbstractClasses/obj/Debug/netcoreapp3.1/AbstractClasses.genruntimeconfig.cache

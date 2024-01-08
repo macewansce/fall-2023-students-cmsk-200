@@ -1,0 +1,15 @@
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\bin\Debug\net6.0\Lesson03-ExtensionMethod.exe
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\bin\Debug\net6.0\Lesson03-ExtensionMethod.deps.json
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\bin\Debug\net6.0\Lesson03-ExtensionMethod.runtimeconfig.json
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\bin\Debug\net6.0\Lesson03-ExtensionMethod.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\bin\Debug\net6.0\ref\Lesson03-ExtensionMethod.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\bin\Debug\net6.0\Lesson03-ExtensionMethod.pdb
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.AssemblyInfo.cs
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\ref\Lesson03-ExtensionMethod.dll
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.pdb
+C:\Users\alsoft\source\repos\MacEwan\CMSK0200\Lesson03-ExtensionMethod\obj\Debug\net6.0\Lesson03-ExtensionMethod.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/levsen/Projects/cSharpLevel2/Delegates/bin/Debug/netcoreapp3.1/Delegates.deps.json
+/Users/levsen/Projects/cSharpLevel2/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.json
+/Users/levsen/Projects/cSharpLevel2/Delegates/bin/Debug/netcoreapp3.1/Delegates.runtimeconfig.dev.json
+/Users/levsen/Projects/cSharpLevel2/Delegates/bin/Debug/netcoreapp3.1/Delegates.dll
+/Users/levsen/Projects/cSharpLevel2/Delegates/bin/Debug/netcoreapp3.1/Delegates.pdb
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.csprojAssemblyReference.cache
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfoInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.AssemblyInfo.cs
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.csproj.CoreCompileInputs.cache
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.dll
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.pdb
+/Users/levsen/Projects/cSharpLevel2/Delegates/obj/Debug/netcoreapp3.1/Delegates.genruntimeconfig.cache
